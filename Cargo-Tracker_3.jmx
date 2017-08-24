@@ -11874,10 +11874,10 @@
       </hashTree>
       <kg.apc.jmeter.threads.SteppingThreadGroup guiclass="kg.apc.jmeter.threads.SteppingThreadGroupGui" testclass="kg.apc.jmeter.threads.SteppingThreadGroup" testname="ESC - 5 UV" enabled="true">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
-        <stringProp name="ThreadGroup.num_threads">500</stringProp>
+        <stringProp name="ThreadGroup.num_threads">600</stringProp>
         <stringProp name="Threads initial delay"></stringProp>
-        <stringProp name="Start users count">50</stringProp>
-        <stringProp name="Start users count burst">50</stringProp>
+        <stringProp name="Start users count">30</stringProp>
+        <stringProp name="Start users count burst">30</stringProp>
         <stringProp name="Start users period">60</stringProp>
         <stringProp name="Stop users count"></stringProp>
         <stringProp name="Stop users period">10</stringProp>
